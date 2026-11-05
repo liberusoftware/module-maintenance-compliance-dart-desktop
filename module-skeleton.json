@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-compliance-dart-desktop",
+  "capabilityKey": "liberusoftware/module-maintenance-compliance",
+  "presentation": "dart-desktop",
+  "package": "module_maintenance_compliance_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/maintenance/nextjs/compliance.md",
+  "presentationPlan": "projects/maintenance/features/compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
